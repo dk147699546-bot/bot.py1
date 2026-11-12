@@ -1,0 +1,4 @@
+*.session
+__pycache__/
+ps_cookies.txt
+premium_users.txt
